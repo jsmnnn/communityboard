@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "image": "https://csm.rowan.edu/departments/cs/photos/images/studentsacm.jpg",
+        "name": "ACM",
+        "description": "Association for Computing Machinery is a club that helps bring together CS Students and work on fun projects!",
+        "link": "https://csm.rowan.edu/departments/cs/students/acm/"
+    },
+    {
+        "id": "2",
+        "image": "https://csm.rowan.edu/_images/acm-w-logo.jpg",
+        "name": "ACM-W",
+        "description": "The Association for Computing Machinery's Council of Women welcomes all genders and majors in support of women in computing!",
+        "link": "https://csm.rowan.edu/departments/cs/students/acm_w/"
+    },
+    {
+        "id": "3",
+        "image": "https://csm.rowan.edu/_images/newupe1.jpg",
+        "name": "UPE Honor Society",
+        "description": "Upsilon Pi Epsilon is an Honors Society that recognizes academic excellence in Computing and Informatics Disciplines.",
+        "link": "https://csm.rowan.edu/departments/cs/students/upe/"
+    },
+    {
+        "id": "4",
+        "image": "https://se-images.campuslabs.com/clink/images/9baad9dc-e0ce-4f30-afe5-6ce712135a03a0101f87-ba51-41f1-9ea1-02e4af74b654.jpeg?preset=med-sq",
+        "name": "Cyber Security Club",
+        "description": "Cyber Security Club is a club for those who are interested in cybersecurity and want to advance their cybersecurity careers.",
+        "link": "https://rowan.campuslabs.com/engage/organization/cybersecurity"
+    },
+    {
+        "id": "5",
+        "image": "https://se-images.campuslabs.com/clink/images/9345c9df-2212-471b-af9e-c2a881aeb5773ad38074-fd02-47f9-bbbd-3879f0a61a34.png?preset=med-sq",
+        "name": "3D Printing Club",
+        "description": "The mission of the 3D Printing Club is to give all students, regardless of major or skill level, the opportunity to learn about 3D printing.",
+        "link": "https://rowan.campuslabs.com/engage/organization/rowan3dpc"
+    },
+    {
+        "id": "6",
+        "image": "https://se-images.campuslabs.com/clink/images/d5347d0b-b976-48f8-a985-97d52ecc7aab91e1dba3-5c37-4e7c-8765-af3230b2d787.jpg?preset=med-sq",
+        "name": "Rowan Gaming Club",
+        "description": "The Rowan Gaming Club is the perfect place to meet other Profs and play games togther!",
+        "link": "https://rowan.campuslabs.com/engage/organization/rugamingclub"
+    },
+    {
+        "id": "7",
+        "image": "https://se-images.campuslabs.com/clink/images/99889d5a-f783-4f6e-b7cb-3cbf6be3a0cf3e673cf0-e603-4653-ae1d-29629d75e0e0.png?preset=med-sq",
+        "name": "Chess Club",
+        "description": "Our purpose is to enjoy the game of chess while improving ourselves and the community through it.",
+        "link": "https://rowan.campuslabs.com/engage/organization/chessclub"
+    },
+    {
+        "id": "8",
+        "image": "https://se-images.campuslabs.com/clink/images/9571a5c1-dad9-45d7-ba98-92df69afb4ba50d9f450-bacd-4bc8-bf95-c84413d137de.png?preset=med-sq",
+        "name": "Esports Club",
+        "description": "Rowan University's very own esports sport club! We have teams for a variety of popular games!",
+        "link": "https://rowan.campuslabs.com/engage/organization/esports"
+    },
+    {
+        "id": "9",
+        "image": "https://se-images.campuslabs.com/clink/images/a26e8c9b-2378-4c28-9e09-dfe152356c8b7a5aeaf1-f827-4418-9cbe-834924ed2d5c.jpg?preset=med-sq",
+        "name": "Engineers Without Borders",
+        "description": "EWB is a service organization that offers students the opportunity to solve real-world problems in developing countries and local communities.",
+        "link": "https://rowan.campuslabs.com/engage/organization/ewb"
+    },
+    {
+        "id": "10",
+        "image": "https://se-images.campuslabs.com/clink/images/f0f84afe-c0d3-462b-bd1b-0e608b4496b13e204e39-b842-4f2d-af96-0264e13699d9.jpeg?preset=med-sq",
+        "name": "Out in STEM",
+        "description": "oSTEM is a national organization that is dedicated to the inclusion and professional development for LGBTQ+ students and workplace professionals.",
+        "link": "https://rowan.campuslabs.com/engage/organization/oSTEM"
+    }
+]
