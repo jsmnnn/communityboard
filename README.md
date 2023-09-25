@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Rowan Club Board
 
 Submitted by: Jasmine Santiago
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/FscyQC4.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![communityboard](https://github.com/jsmnnn/communityboard/assets/115364784/b8b1abfe-d2ca-49ec-8625-747b6c21812e)
 
 ## Notes
 
